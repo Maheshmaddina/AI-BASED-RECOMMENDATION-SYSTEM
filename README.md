@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-# DESCRIPTION
+# DESCRIPTION:
 
 At its core, a recommendation system acts like a helpful guide, suggesting products or content a user might like based on their past actions and preferences. Think of Netflix suggesting your next binge-watch or Amazon presenting items you "might also like." These systems are crucial in today's digital world, helping users discover new things and businesses drive sales.
 PLATFORM: VISUAL STUDIO CODE.
@@ -35,7 +35,7 @@ Neighborhood Formation (User-Based): For user-based systems, a "neighborhood" of
 Recommendation Generation: Finally, based on these similarities and neighborhoods, the system predicts what preferences a user would have for unrated items and recommends the highest-scoring ones.
 While Mahout's Taste is excellent for understanding these fundamentals and for smaller-scale applications, modern large-scale systems often leverage distributed computing frameworks like Apache Spark's MLlib for greater scalability and performance.
 
-# OUTPUT
+# OUTPUT:
 INPUT DATA:
 
 ![Image](https://github.com/user-attachments/assets/c7c9db5f-c260-4e68-b3a8-aae989358d88)
