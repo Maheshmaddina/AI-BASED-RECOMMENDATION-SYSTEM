@@ -36,7 +36,21 @@ Recommendation Generation: Finally, based on these similarities and neighborhood
 While Mahout's Taste is excellent for understanding these fundamentals and for smaller-scale applications, modern large-scale systems often leverage distributed computing frameworks like Apache Spark's MLlib for greater scalability and performance.
 
 # OUTPUT
+INPUT DATA
 
+![Image](https://github.com/user-attachments/assets/c7c9db5f-c260-4e68-b3a8-aae989358d88)
+
+
+AND OUTPUT
+
+
+
+![Image](https://github.com/user-attachments/assets/64684cba-34b6-467a-84b0-0f10efc43014)
+
+
+
+
+![Image](https://github.com/user-attachments/assets/d03867df-80a1-4a61-b072-bef83e3cb881)
 
 
 
